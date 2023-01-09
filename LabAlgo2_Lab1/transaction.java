@@ -35,11 +35,6 @@ public class transaction {
 	    	 if (flag ==0) {
 	    		 System.out.println("GIVEN TARGET IS NOT ACHIEVEF");
 	    	 }
-	     }
-	     
-		
-		
-
+	     }	
 	}
-
 }
