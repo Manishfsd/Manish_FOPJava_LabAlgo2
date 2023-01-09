@@ -24,8 +24,7 @@ public class DriverClass {
 
 		System.out.println();
 
-		PaymentApproch paymentApproach = new PaymentApproch
-				();
+		PaymentApproch paymentApproach = new PaymentApproch();
 
 		paymentApproach.denomination(size, curr_value, amount);
 
